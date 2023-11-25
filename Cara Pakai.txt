@@ -1,0 +1,8 @@
+1.Buka mongoose
+2.Ketik "http://localhost:8000"
+3.Klik "Allow Camera"
+4.Arahkan marker ke kamera
+
+models:
+1.https://sketchfab.com/3d-models/mitsubishi-lancer-evo-x-a4916e48dac942f1ab88bca7f20de821
+2.https://sketchfab.com/3d-models/free-lamborghini-countach-fdd16d7aa2b34c59ac5cadfff2923dc0
